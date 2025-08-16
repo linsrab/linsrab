@@ -1,7 +1,5 @@
 # Marina Rabello
 
-**`Desenvolvedora Backend`**
-
 Me chamo Marina 
 
 ---
