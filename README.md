@@ -1,6 +1,14 @@
-# Marina Rabello
+Sou desenvolvedora com experiência em **Java**, criação de **APIs e microsserviços**, integrações com **AWS** e automações em **Go** e **Python**.  
 
-Me chamo Marina 
+Gosto de resolver problemas de forma prática e escalável, explorando desde **estrutura de dados** até boas práticas de **arquitetura e clean code**.  
+
+Atualmente, estou:  
+- 🚀 Desenvolvendo APIs e serviços orientados a eventos  
+- 📚 Aprofundando meus estudos em **Engenharia de Software**  
+- 💡 Explorando ideias de **micro SaaS**  
+- 🔍 Praticando **estruturas de dados e algoritmos**  
+
+Fora do código, você provavelmente vai me encontrar jogando board games, treinando na academia ou praticando jiu-jitsu. 
 
 ---
 
